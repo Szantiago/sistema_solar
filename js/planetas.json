@@ -1,0 +1,191 @@
+{
+  "lunas" :[
+      {
+        "nombre" : "luna",
+        "tamano" : 15.9,
+        "imagen"	: "img/luna.jpg",
+        "x1" : 125,
+        "traslacion":0.01,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "ío",
+        "tamano" : 11.9,
+        "imagen"	:"img/io.jpg",
+        "x1" : 105,
+        "traslacion":0.04,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "europa",
+        "tamano" : 11.9,
+        "imagen"	: "img/europa.jpg",
+        "x1" : 140,
+        "traslacion":0.008,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "ganimedes",
+        "tamano" : 12.9,
+        "imagen"	: "img/ganimedes.jpg",
+        "x1" : 180,
+        "traslacion":0.03,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "calisto",
+        "tamano" : 12.9,
+        "imagen"	: "img/calisto.jpg",
+        "x1" : 220,
+        "traslacion":0.02,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "mimas",
+        "tamano" : 8.9,
+        "imagen"	: "img/mimas.jpg",
+        "x1" : 90,
+        "traslacion":0.01,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "encelado",
+        "tamano" : 8.9,
+        "imagen"	: "img/encelado.jpg",
+        "x1" : 120,
+        "traslacion":0.009,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "tetis",
+        "tamano" : 12.9,
+        "imagen"	: "img/tetis.jpg",
+        "x1" : 150,
+        "traslacion":0.007,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "dione",
+        "tamano" : 12.9,
+        "imagen"	: "img/dione.jpg",
+        "x1" : 190,
+        "traslacion":0.03,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "rea",
+        "tamano" : 14.9,
+        "imagen"	: "img/rea.jpg",
+        "x1" : 230,
+        "traslacion":0.04,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "titan",
+        "tamano" : 18.9,
+        "imagen"	: "img/titan.jpg",
+        "x1" : 260,
+        "traslacion":0.006,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "hiperion",
+        "tamano" : 6.9,
+        "imagen"	: "img/hiperion.jpg",
+        "x1" : 300,
+        "traslacion":0.02,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "japeto",
+        "tamano" : 14.9,
+        "imagen"	: "img/japeto.jpg",
+        "x1" : 340,
+        "traslacion":0.005,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "febe",
+        "tamano" : 5.9,
+        "imagen"	: "img/febe.jpg",
+        "x1" : 370,
+        "traslacion":0.03,
+        "objeto" : 0
+      }
+    ],
+
+  "planets": [
+        {
+          "nombre" : "sol",
+          "tamano" 	: 300,
+          "imagen"	: "img/sol.jpg",
+          "x1" : 0,
+          "rotacion": 0.01,
+          "descripcion":"El Sol (del latín sol, solis, a su vez de la raíz protoindoeuropea sauel-)4 es una estrella de tipo-G de la secuencia principal y clase de luminosidad V que se encuentra en el centro del sistema solar y constituye la mayor fuente de radiación electromagnética de este sistema planetario.5 Es una bola esférica casi perfecta de plasma, con un movimiento convectivo interno que genera un campo magnético a través de un proceso de dinamo. Cerca de tres cuartas partes de la masa del Sol constan de hidrógeno; el resto es principalmente helio, con cantidades mucho más pequeñas de elementos, incluyendo el oxígeno, carbón, neón y hierro.Se formó hace aproximadamente 4600 millones de años a partir del colapso gravitacional de la materia dentro de una región de una gran nube molecular. La mayor parte de esta materia se acumuló en el centro, mientras que el resto se aplanó en un disco en órbita que se convirtió en el Sistema Solar. La masa central se volvió cada vez más densa y caliente, dando lugar con el tiempo al inicio de la fusión nuclear en su núcleo. Se cree que casi todas las estrellas se forman por este proceso. El Sol es más o menos de edad intermedia y no ha cambiado drásticamente desde hace más de cuatro mil millones de años, y seguirá siendo bastante estable durante otros cinco mil millones de años más. Sin embargo, después de que la fusión del hidrógeno en su núcleo se halla detenido, el Sol sufrirá cambios severos y se convertirá en una gigante roja. Se estima que el Sol se volverá lo suficientemente grande como para engullir las órbitas actuales de Mercurio, Venus y posiblemente la Tierra. La Tierra y otros cuerpos (incluidos otros planetas, asteroides, meteoroides, cometas y polvo) orbitan alrededor del Sol.5 Por sí solo, representa alrededor del 99,86 % de la masa del sistema solar.6 La distancia media del Sol a la Tierra fue definida exactamente por la Unión Astronómica Internacional en 149 597 870 700 metros7 (aproximadamente 150 millones de kilómetros). Su luz recorre esta distancia en 8 minutos y 19 segundos.La energía del Sol, en forma de luz solar, sustenta a casi todas las formas de vida en la Tierra a través de la fotosíntesis, y determina el clima de la Tierra y la meteorología.Es la estrella del sistema planetario en el que se encuentra la Tierra; por lo tanto, es el astro con mayor brillo aparente. Su visibilidad en el cielo local determina, respectivamente, el día y la noche en diferentes regiones de diferentes planetas. En la Tierra, la energía radiada por el Sol es aprovechada por los seres fotosintéticos que constituyen la base de la cadena trófica, siendo así la principal fuente de energía de la vida. También aporta la energía que mantiene en funcionamiento los procesos climáticos.El Sol es una estrella que se encuentra en la fase denominada secuencia principal, con un tipo espectral G2 y clase de luminosidad V, por tanto, también es denominada como enana amarilla, se formó entre 4567,9 y 4570,1 millones de años y permanecerá en la secuencia principal aproximadamente 5000 millones de años más. El Sol, junto con todos los cuerpos celestes que orbitan a su alrededor, incluida la Tierra, forman el sistema solar.A pesar de ser una estrella mediana, es la única cuya forma se puede apreciar a simple vista, con un diámetro angular de 32′ 35″ de arco en el perihelio y 31′ 31″ en el afelio, lo que da un diámetro medio de 32′ 03″. La combinación de tamaños y distancias del Sol y la Luna son tales que se ven, aproximadamente, con el mismo tamaño aparente en el cielo. Esto permite una amplia gama de eclipses solares distintos (totales, anulares o parciales).El vasto efecto del Sol sobre la Tierra ha sido reconocido desde tiempos prehistóricos y ha sido considerado por algunas culturas como una deidad. El movimiento de la Tierra alrededor del Sol es la base del calendario solar, el cual es el calendario predominante en uso hoy en día."
+          },
+        {	"nombre"  : "mercurio",
+          "tamano" 	: 38.4,
+          "imagen"	: "img/mercurio.jpg",
+          "x1" : -566,
+          "rotacion" : 0.1,
+          "descripcion" :"Mercurio recibió este nombre de los romanos por el mensajero de pies alados de los dioses ya que parecía moverse más rápido que ningún otro planeta. Es el planeta más cercano al Sol, y el segundo más pequeño del Sistema Solar. Su diámetro es un 40% más pequeño que la Tierra y un 40% más grande que la Luna. Es incluso más pequeño que la luna de Júpiter, Ganimedes o la luna de Saturno, Titán.Se encuentra a una distancia aproximada del Sol de 58 millones de km, tiene un diámetro de 4.875 km, su volumen y su masa son semejantes a los de la Tierra y su densidad media es aproximadamente igual a la de la Tierra. Mercurio órbita alrededor del Sol cada 88 días (año del planeta). Los estudios de radar del planeta muestran que gira sobre su eje una vez cada 58,7 días o cada dos terceras partes de su periodo orbital; por tanto, gira una vez y media sobre su eje durante cada periodo orbital. Dado que su superficie es abrupta, porosa y de roca oscura.",
+          "objeto":0
+        },
+        {	"nombre"  : "venus",
+          "tamano" 	: 43.4,
+          "imagen"	: "img/venus.jpg",
+          "x1" : -998,
+          "rotacion" : 0.1,
+          "descripcion" : "Venus es el segundo planeta del Sistema Solar en orden de distancia desde el Sol, y el tercero en cuanto a tamaño, de menor a mayor, junto con Mercurio, carece de satélites naturales. Recibe su nombre en honor a Venus, la diosa romana del amor. Se trata de un planeta de tipo rocoso y terrestre, llamado con frecuencia el planeta hermano de la Tierra, ya que ambos son similares en cuanto a tamaño, masa y composición, aunque totalmente diferentes en cuestiones térmicas y atmosféricas. La órbita de Venus es una elipse con una excentricidad de menos del 1 %, formando la órbita más circular de todos los planetas; apenas supera la de Neptuno. Su presión atmosférica es 90 veces superior a la terrestre; es por tanto la mayor presión atmosférica de todos los planetas rocosos. A pesar de estar situado más lejos del Sol que Mercurio, Venus posee la atmósfera más caliente, pues esta atrapa mucho más calor del Sol, debido a que está compuesta principalmente por gases de invernadero, como el dióxido de carbono. Este planeta además posee el día más largo del sistema solar: 243 días terrestres, y su movimiento es dextrógiro, es decir, gira en el sentido de las manecillas del reloj, contrario al movimiento de los otros planetas. Por ello, en un día venusiano el sol sale por el Oeste y se oculta por el Este. Sus nubes, sin embargo, pueden dar la vuelta al planeta en cuatro días. De hecho, hace muchos años, antes de estudiar el planeta enviando a su superficie naves no tripuladas y estudiar su superficie con radar, se pensaba que el período de rotación de Venus era de unos cuatro días. Al encontrarse Venus más cercano al Sol que la Tierra (es un planeta interior), siempre se puede encontrar en las inmediaciones del Sol (su mayor elongación es de 47,8°), por lo que desde la Tierra se puede ver solo durante unas pocas horas antes del orto (salida del Sol), en unos determinados meses del año, o también durante unas pocas horas después del ocaso (puesta del Sol), en el resto del año. A pesar de ello, cuando Venus es más brillante, puede ser visto durante el día, siendo uno de los tres únicos cuerpos celestes que pueden ser vistos de día a simple vista, además de la Luna y el Sol. Venus es normalmente conocido como la estrella de la mañana (Lucero del Alba) o la estrella de la tarde (Lucero Vespertino) y, cuando es visible en el cielo nocturno, es el segundo objeto más brillante del firmamento, tras la Luna. Por este motivo, Venus debió ser ya conocido desde los tiempos prehistóricos. Sus movimientos en el cielo eran conocidos por la mayoría de las antiguas civilizaciones, adquiriendo importancia en casi todas las interpretaciones astrológicas del movimiento planetario. En particular, la civilización maya elaboró un calendario religioso basado en los ciclos astronómicos, incluyendo los ciclos de Venus. El símbolo del planeta Venus es una representación estilizada del espejo de la diosa Venus: un círculo con una pequeña cruz debajo, utilizado también hoy para denotar el sexo femenino. Los adjetivos venusiano/a, venusino/a y venéreo/a (poéticamente) son usados para denotar las características habitualmente atribuidas a Venus-Afrodita. El adjetivo venéreo suele asociarse a las enfermedades de transmisión sexual. Venus y la Tierra (diosa griega Gea) son los únicos planetas del sistema solar con nombre femenino.",
+          "objeto":0
+        },
+        {	"nombre"  : "tierra",
+          "tamano" 	: 83.9,
+          "imagen"	: "img/tierra.jpg",
+          "x1" : -1650,
+          "rotacion" : 0.05,
+          "descripcion" :"La Tierra (del latín Terra,17 deidad romana equivalente a Gea, diosa griega de la feminidad y la fecundidad) es un planeta del Sistema Solar que gira alrededor de su estrella -el Sol- en la tercera órbita más interna. Es el más denso y el quinto mayor de los ocho planetas del Sistema Solar. También es el mayor de los cuatro terrestres. La Tierra se formó hace aproximadamente 4550 millones de años y la vida surgió unos mil millones de años después.18 Es el hogar de millones de especies, incluyendo los seres humanos y actualmente el único cuerpo astronómico donde se conoce la existencia de vida.19 La atmósfera y otras condiciones abióticas han sido alteradas significativamente por la biosfera del planeta, favoreciendo la proliferación de organismos aerobios, así como la formación de una capa de ozono que junto con el campo magnético terrestre bloquean la radiación solar dañina, permitiendo así la vida en la Tierra.20 Las propiedades físicas de la Tierra, la historia geológica y su órbita han permitido que la vida siga existiendo. Se estima que el planeta seguirá siendo capaz de sustentar vida durante otros 500 millones de años, ya que según las previsiones actuales, pasado ese tiempo la creciente luminosidad del Sol terminará causando la extinción de la biosfera.21 22 23 La superficie terrestre o corteza está dividida en varias placas tectónicas que se deslizan sobre el magma durante periodos de varios millones de años. La superficie está cubierta por continentes e islas, estos poseen varios lagos, ríos y otras fuentes de agua, que junto con los océanos de agua salada que representan cerca del 71 % de la superficie construyen la hidrósfera. No se conoce ningún otro planeta con este equilibrio de agua líquida,nota 6 que es indispensable para cualquier tipo de vida conocida. Los polos de la Tierra están cubiertos en su mayoría de hielo sólido (Indlandsis de la Antártida) o de banquisas (casquete polar ártico). El interior del planeta es geológicamente activo, con una gruesa capa de manto relativamente sólido, un núcleo externo líquido que genera un campo magnético, y un núcleo de hierro sólido interior aproximadamente del 88 %. La Tierra interactúa con otros objetos en el espacio, especialmente el Sol y la Luna. En la actualidad, la Tierra completa una órbita alrededor del Sol cada vez que realiza 366,26 giros sobre su eje, lo cual es equivalente a 365,26 días solares o a un año sideral.nota 7 El eje de rotación de la Tierra se encuentra inclinado 23,4° con respecto a la perpendicular a su plano orbital, lo que produce las variaciones estacionales en la superficie del planeta con un período de un año tropical (365,24 días solares).26 La Tierra posee un único satélite natural, la Luna, que comenzó a orbitar la Tierra hace 4530 millones de años; esta produce las mareas, estabiliza la inclinación del eje terrestre y reduce gradualmente la velocidad de rotación del planeta. Hace aproximadamente 3800 a 4100 millones de años, durante el llamado bombardeo intenso tardío, numerosos asteroides impactaron en la Tierra, causando significativos cambios en la mayor parte de su superficie. Tanto los recursos minerales del planeta como los productos de la biosfera aportan recursos que se utilizan para sostener a la población humana mundial. Sus habitantes están agrupados en unos 200 estados soberanos independientes, que interactúan a través de la diplomacia, los viajes, el comercio, y la acción militar. Las culturas humanas han desarrollado muchas ideas sobre el planeta, incluida la personificación de una deidad, la creencia en una Tierra plana o en la Tierra como centro del universo, y una perspectiva moderna del mundo como un entorno integrado que requiere administración.",
+          "objeto":0
+        },
+        {	"nombre"  : "marte",
+          "tamano" 	: 49.7,
+          "imagen"	: "img/marte.jpg",
+          "x1" : -2058,
+          "rotacion" : 0.1,
+          "descripcion" :"Marte es el cuarto planeta del sistema solar en orden de distancia al Sol. Llamado así por el dios de la guerra de la mitología romana Marte, recibe a veces el apodo de planeta rojo debido a la apariencia rojiza que le confiere el óxido de hierro que domina su superficie. Tiene una atmósfera delgada formada por dióxido de carbono, y dos satélites: Fobos y Deimos. Forma parte de los llamados planetas telúricos (de naturaleza rocosa, como la Tierra) y es el planeta interior más alejado del Sol. Es, en muchos aspectos, el más parecido a la Tierra. Aunque en apariencia podría parecer un planeta muerto, no lo es. Sus campos de dunas siguen siendo mecidos por el viento marciano, sus casquetes polares cambian con las estaciones e incluso parece que hay algunos pequeños flujos estacionales de agua. Tycho Brahe midió con gran precisión el movimiento de Marte en el cielo. Los datos sobre el movimiento retrógrado aparente (los llamados lazos)permitieron a Kepler hallar la naturaleza elíptica de su órbita y determinar las leyes del movimiento planetario conocidas como leyes de Kepler. Forma parte de los planetas superiores a la Tierra, que son aquellos que nunca pasan entre el Sol y la Tierra. Sus fases (porción iluminada vista desde la Tierra) están poco marcadas, hecho que es fácil de demostrar geométricamente. Considerando el triángulo Sol-Tierra-Marte, el ángulo de fase es el que forman el Sol y la Tierra vistos desde Marte. Alcanza su valor máximo en las cuadraturas cuando el triángulo STM es rectángulo en la Tierra. Para Marte, este ángulo de fase no es nunca mayor de 42°, y su aspecto de disco giboso es análogo al que presenta la Luna 3,5 días antes o después de la Luna llena. Esta fase, visible con un telescopio de aficionado, no logró ser vista por Galileo, quien solo supuso su existencia.",
+          "objeto":0
+        },
+        {	"nombre"  : "jupiter",
+          "tamano" 	: 120,
+          "imagen"	: "img/jupiter.jpg",
+          "x1" : -3945,
+          "rotacion" : 0.1,
+          "descripcion" :"Júpiter es el quinto planeta del Sistema Solar. Forma parte de los denominados planetas exteriores o gaseosos. Recibe su nombre del dios romano Júpiter (Zeus en la mitología griega). Se trata del planeta que ofrece un mayor brillo a lo largo del año dependiendo de su fase. Es, además, después del Sol, el mayor cuerpo celeste del Sistema Solar, con una masa casi dos veces y media la de los demás planetas juntos (con una masa 318 veces mayor que la de la Tierra y tres veces mayor que la de Saturno, además de ser en cuanto a volumen, 1317 veces más grande que la Tierra). Júpiter es un cuerpo masivo gaseoso, formado principalmente por hidrógeno y helio, carente de una superficie interior definida. Entre los detalles atmosféricos destacan la Gran mancha roja, un enorme anticiclón situado en las latitudes tropicales del hemisferio sur, la estructura de nubes en bandas oscuras y zonas brillantes, y la dinámica atmosférica global determinada por intensos vientos zonales alternantes en latitud y con velocidades de hasta 140 m/s (504 km/h).",
+          "objeto":0
+        },
+        {	"nombre"  : "saturno",
+          "tamano" 	: 106.04,
+          "imagen"	: "img/saturno.jpg",
+          "x1" : -5695.0000000000005,
+          "rotacion" : 0.1,
+          "descripcion" :"Saturno es el sexto planeta del Sistema Solar, el segundo en tamaño y masa después de Júpiter y el único con un sistema de anillos visible desde nuestro planeta. Su nombre proviene del dios romano Saturno. Forma parte de los denominados planetas exteriores o gaseosos. El aspecto más característico de Saturno son sus brillantes anillos. Antes de la invención del telescopio, Saturno era el más lejano de los planetas conocidos y, a simple vista, no parecía luminoso ni interesante. El primero en observar los anillos fue Galileo en 1610, pero la baja inclinación de los anillos y la baja resolución de su telescopio le hicieron pensar en un principio que se trataba de grandes lunas. Christiaan Huygens con mejores medios de observación pudo en 1659 observar con claridad los anillos. James Clerk Maxwell en 1859 demostró matemáticamente que los anillos no podían ser un único objeto sólido sino que debían ser la agrupación de millones de partículas de menor tamaño. Las partículas que componen los anillos de Saturno giran a una velocidad de 48 000 km/h, 15 veces más rápido que una bala.",
+          "objeto":0
+        },
+        {	"nombre"  : "urano",
+          "tamano" 	: 45.7,
+          "imagen"	: "img/urano.jpg",
+          "x1" : -8556.000000000001,
+          "rotacion" : 0.1,
+          "descripcion" :"Urano es el séptimo planeta del Sistema Solar, el tercero de mayor tamaño, y el cuarto más masivo. Se llama así en honor de la divinidad griega del cielo Urano (del griego antiguo «Οὐρανός») el padre de Crono (Saturno) y el abuelo de Zeus (Júpiter). Aunque es detectable a simple vista en el cielo nocturno, no fue catalogado como planeta por los astrónomos de la antigüedad debido a su escasa luminosidad y a la lentitud de su órbita. Sir William Herschel anunció su descubrimiento el 13 de marzo de 1781, ampliando las fronteras conocidas del Sistema Solar hasta entonces por primera vez en la historia moderna. Urano es también el primer planeta descubierto por medio de un telescopio. Urano es similar en composición a Neptuno, y los dos tienen una composición diferente de los otros dos gigantes gaseosos (Júpiter y Saturno). Por ello, los astrónomos a veces los clasifican en una categoría diferente, los gigantes helados. La atmósfera de Urano, aunque es similar a la de Júpiter y Saturno por estar compuesta principalmente de hidrógeno y helio, contiene una proporción superior tanto de «hielos» como de agua, amoníaco y metano, junto con trazas de hidrocarburos. Posee la atmósfera planetaria más fría del Sistema Solar, con una temperatura mínima de 49 K (-224 °C). Asimismo, tiene una estructura de nubes muy compleja, acomodada por niveles, donde se cree que las nubes más bajas están compuestas de agua y las más altas de metano. En contraste, el interior de Urano se encuentra compuesto principalmente de hielo y roca. Como los otros planetas gigantes, Urano tiene un sistema de anillos, una magnetosfera, y satélites numerosos. El sistema de Urano tiene una configuración única respecto a los otros planetas puesto que su eje de rotación está muy inclinado, casi hasta su plano de revolución alrededor del Sol. Por lo tanto, sus polos norte y sur se encuentran en donde la mayoría de los otros planetas tienen el ecuador. Vistos desde la Tierra, los anillos de Urano dan el aspecto de que rodean el planeta como una diana, y que los satélites giran a su alrededor como las agujas de un reloj, aunque en 2007 y 2008, los anillos aparecían de lado. El 24 de enero de 1986, las imágenes del Voyager 2 mostraron a Urano como un planeta sin ninguna característica especial de luz visible e incluso sin bandas de nubes o tormentas asociadas con los otros gigantes. Sin embargo, los observadores terrestres han visto señales de cambios de estación y un aumento de la actividad meteorológica en los últimos años a medida que Urano se acerca a su equinoccio. Las velocidades del viento en Urano pueden llegar o incluso sobrepasar los 250 metros por segundo (900 km/h).",
+          "objeto":0
+        },
+        {	"nombre"  : "neptuno",
+          "tamano" 	: 44.64,
+          "imagen"	: "img/neptuno.jpg",
+          "x1" : -9829,
+          "rotacion" : 0.1,
+          "descripcion" :"Neptuno es el octavo planeta en distancia respecto al Sol y el más lejano del sistema solar. Forma parte de los denominados planetas exteriores o gigantes gaseosos, y es el primero que fue descubierto gracias a predicciones matemáticas. Su nombre fue puesto en honor al dios romano del mar —Neptuno—, y es el cuarto planeta en diámetro y el tercero más grande en masa. Su masa es diecisiete veces la de la Tierra y ligeramente más masivo que su planeta «gemelo» Urano, que tiene quince masas terrestres y no es tan denso. En promedio, Neptuno orbita el Sol a una distancia de 30,1 ua. Su símbolo astronómico es ♆, una versión estilizada del tridente del dios Neptuno. Tras el descubrimiento de Urano, se observó que las órbitas de Urano, Saturno y Júpiter no se comportaban tal como predecían las leyes de Kepler y de Newton. Adams y Le Verrier, de forma independiente, calcularon la posición de un hipotético planeta, Neptuno, que finalmente fue encontrado por Galle, el 23 de septiembre de 1846, a menos de un grado de la posición calculada por Le Verrier. Más tarde se advirtió que Galileo ya había observado Neptuno en 1612, pero lo había confundido con una estrella. Neptuno es un planeta dinámico, con manchas que recuerdan las tempestades de Júpiter. La más grande, la Gran Mancha Oscura, tenía un tamaño similar al de la Tierra, pero en 1994 desapareció y se ha formado otra. Los vientos más fuertes de cualquier planeta del sistema solar se encuentran en Neptuno. Neptuno tiene una composición bastante similar a del planeta Urano, y ambos tienen composiciones que difieren mucho de los demás gigantes gaseosos, Júpiter y Saturno. La atmósfera de Neptuno, como las de Júpiter y de Saturno, se compone principalmente de hidrógeno y helio, junto con vestigios de hidrocarburos y posiblemente nitrógeno. Contiene una mayor proporción de hielos, tales como agua (H2O), amoníaco (NH3) y metano (CH4). Los científicos muchas veces categorizan Urano y Neptuno como gigantes helados para enfatizar la distinción entre estos y los gigantes de gas Júpiter y Saturno. El interior de Neptuno, como el de Urano, está compuesto principalmente de hielos y roca.8 Los rastros de metano en las regiones periféricas exteriores contribuyen para el aspecto azul vívido de este planeta. Neptuno es ligeramente más pequeño que Urano, pero más denso.",
+          "objeto":0
+        }
+      ]
+}
