@@ -1,0 +1,39 @@
+{
+  "lunas" :[
+      {
+        "nombre" : "luna",
+        "tamano" : 15.9,
+        "imagen"	: "img/luna.jpg",
+        "x1" : 125,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "ío",
+        "tamano" : 14.9,
+        "imagen"	:"img/io.jpg",
+        "x1" : 135,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "europa",
+        "tamano" : 14.9,
+        "imagen"	: "img/europa.jpg",
+        "x1" : 115,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "ganimedes",
+        "tamano" : 15.9,
+        "imagen"	: "img/ganimedes.jpg",
+        "x1" : 112,
+        "objeto" : 0
+      },
+      {
+        "nombre" : "calisto",
+        "tamano" : 15.9,
+        "imagen"	: "img/calisto.jpg",
+        "x1" : 105,
+        "objeto" : 0
+      }
+]
+}
